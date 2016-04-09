@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Test</string>
+    <string name="facebook_app_id">346519098805081</string>
+    <string name="cancel">Cancel</string>
+    <string name="allow">Allow</string>
+    <string name="settings">Settings</string>
+</resources>
